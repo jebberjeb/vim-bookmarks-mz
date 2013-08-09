@@ -5,7 +5,7 @@ Simple bookmarks for vim, using mzscheme (see racket).
 
 # Dependencies #
 
-* Vim must be compiled with +mzscheme (configure with --enable-mzscheminterp).
+* Vim must be compiled with +mzscheme (configure with --enable-mzschemeinterp).
 
 # Installation #
 
