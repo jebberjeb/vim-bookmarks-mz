@@ -13,5 +13,5 @@ Simple bookmarks for vim, using mzscheme (see racket).
 
 ## Use ##
 
-* <leader>bm[0-9] - add a bookmark (0 - 9)
-* <leader><leader>bm[0-9] - go to a bookmark (0 - 9)
+* &lt;leader&gt;bm[0-9] - add a bookmark (0 - 9)
+* &lt;leader&gt;&lt;leader&gt;bm[0-9] - go to a bookmark (0 - 9)
